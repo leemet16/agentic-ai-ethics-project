@@ -1,4 +1,4 @@
-##Glossary
+## Glossary
 
 This glossary provides definitions for key terms used throughout the
 research project to ensure clarity and consistency for all participants.
