@@ -1,30 +1,24 @@
+# Perceptions of Agentic AI in Organizations: Implications for Responsible AI and ROI
+## Research Design Document
+
 Lee Ackerman
 
 <lee_ackerman@media-uni.de>
 
 Monday, February 10, 2025
 
-[Introduction [4](#introduction)](#introduction)
+## Table of Contents
 
-[Problem Statement [4](#problem-statement)](#problem-statement)
+1. [Introduction [4](#introduction)](#introduction)
+  * [Problem Statement [4](#problem-statement)](#problem-statement)
+  * [Research Question [5](#research-question)](#research-question)
+  * [Target Audience [5](#target-audience)](#target-audience)
+2. [Survey Methodology [5](#survey-methodology)](#survey-methodology)
+  * [Survey Design and Considerations [5](#survey-design-and-considerations)](#survey-design-and-considerations)
+  * [Participant Recruitment and Sampling Strategy [6](#participant-recruitment-and-sampling-strategy)](#participant-recruitment-and-sampling-strategy)
+  * [Ethical Considerations [7](#ethical-considerations)](#ethical-considerations)
 
-[Research Question [5](#research-question)](#research-question)
-
-[Target Audience [5](#target-audience)](#target-audience)
-
-[Survey Methodology [5](#survey-methodology)](#survey-methodology)
-
-[Survey Design and Considerations
-[5](#survey-design-and-considerations)](#survey-design-and-considerations)
-
-[Participant Recruitment and Sampling Strategy
-[6](#participant-recruitment-and-sampling-strategy)](#participant-recruitment-and-sampling-strategy)
-
-[Ethical Considerations
-[7](#ethical-considerations)](#ethical-considerations)
-
-[Voluntary and Informed Participation
-[7](#voluntary-and-informed-participation)](#voluntary-and-informed-participation)
+  * [Voluntary and Informed Participation [7](#voluntary-and-informed-participation)](#voluntary-and-informed-participation)
 
 [Anonymity and Data Protection
 [7](#anonymity-and-data-protection)](#anonymity-and-data-protection)
