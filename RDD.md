@@ -9,7 +9,7 @@ Monday, February 10, 2025
 
 ## Table of Contents
 
-1. [Introduction [4](#introduction)](#introduction)
+1. [Introduction](#introduction)]
   * [Problem Statement [4](#problem-statement)](#problem-statement)
   * [Research Question [5](#research-question)](#research-question)
   * [Target Audience [5](#target-audience)](#target-audience)
