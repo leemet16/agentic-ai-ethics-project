@@ -17,103 +17,48 @@ Monday, February 10, 2025
   * [Survey Design and Considerations [5](#survey-design-and-considerations)](#survey-design-and-considerations)
   * [Participant Recruitment and Sampling Strategy [6](#participant-recruitment-and-sampling-strategy)](#participant-recruitment-and-sampling-strategy)
   * [Ethical Considerations [7](#ethical-considerations)](#ethical-considerations)
+    * [Voluntary and Informed Participation [7](#voluntary-and-informed-participation)](#voluntary-and-informed-participation)
+    * [Anonymity and Data Protection [7](#anonymity-and-data-protection)](#anonymity-and-data-protection)
+    * [Researcher Integrity and Open Science [8](#researcher-integrity-and-open-science)](#researcher-integrity-and-open-science)
+    * [Bias Mitigation [8](#bias-mitigation)](#bias-mitigation)
+    * [Ethics Review and Peer Input [8](#ethics-review-and-peer-input)](#ethics-review-and-peer-input)
+  * [Study Limitations [9](#study-limitations)](#study-limitations)
+    * [Sampling Bias & Generalizability [9](#sampling-bias-generalizability)](#sampling-bias-generalizability)
+    * [Interpretation of Organizational vs. Individual Perspectives [9](#interpretation-of-organizational-vs.-individual-perspectives)](#interpretation-of-organizational-vs.-individual-perspectives)
 
-  * [Voluntary and Informed Participation [7](#voluntary-and-informed-participation)](#voluntary-and-informed-participation)
+    * [Dynamic Nature of AI and Responsible AI Practices [9](#dynamic-nature-of-ai-and-responsible-ai-practices)](#dynamic-nature-of-ai-and-responsible-ai-practices)
 
-[Anonymity and Data Protection
-[7](#anonymity-and-data-protection)](#anonymity-and-data-protection)
-
-[Researcher Integrity and Open Science
-[8](#researcher-integrity-and-open-science)](#researcher-integrity-and-open-science)
-
-[Bias Mitigation [8](#bias-mitigation)](#bias-mitigation)
-
-[Ethics Review and Peer Input
-[8](#ethics-review-and-peer-input)](#ethics-review-and-peer-input)
-
-[Study Limitations [9](#study-limitations)](#study-limitations)
-
-[Sampling Bias & Generalizability
-[9](#sampling-bias-generalizability)](#sampling-bias-generalizability)
-
-[Interpretation of Organizational vs. Individual Perspectives
-[9](#interpretation-of-organizational-vs.-individual-perspectives)](#interpretation-of-organizational-vs.-individual-perspectives)
-
-[Dynamic Nature of AI and Responsible AI Practices
-[9](#dynamic-nature-of-ai-and-responsible-ai-practices)](#dynamic-nature-of-ai-and-responsible-ai-practices)
-
-[Survey Design [9](#survey-design)](#survey-design)
-
-[Introduction and Consent
-[10](#introduction-and-consent)](#introduction-and-consent)
-
-[Anonymity and Confidentiality
-[10](#anonymity-and-confidentiality)](#anonymity-and-confidentiality)
-
-[Voluntary Participation and Right to Opt Out
-[10](#voluntary-participation-and-right-to-opt-out)](#voluntary-participation-and-right-to-opt-out)
-
-[Survey Questions [11](#survey-questions)](#survey-questions)
-
-[Background Information
-[11](#background-information)](#background-information)
-
-[Assessing the Need for Responsible AI Framework Adaptation
-[12](#assessing-the-need-for-responsible-ai-framework-adaptation)](#assessing-the-need-for-responsible-ai-framework-adaptation)
-
-[Implementation Techniques and Technologies
+3. [Survey Design [9](#survey-design)](#survey-design)
+  * [Introduction and Consent [10](#introduction-and-consent)](#introduction-and-consent)
+    * [Anonymity and Confidentiality [10](#anonymity-and-confidentiality)](#anonymity-and-confidentiality)
+    * [Voluntary Participation and Right to Opt Out [10](#voluntary-participation-and-right-to-opt-out)](#voluntary-participation-and-right-to-opt-out)
+  * [Survey Questions [11](#survey-questions)](#survey-questions)
+    * [Background Information [11](#background-information)](#background-information)
+    * [Assessing the Need for Responsible AI Framework Adaptation [12](#assessing-the-need-for-responsible-ai-framework-adaptation)](#assessing-the-need-for-responsible-ai-framework-adaptation)
+    * [Implementation Techniques and Technologies
 [12](#implementation-techniques-and-technologies)](#implementation-techniques-and-technologies)
+    * [Impact on Organizational Culture and Practices [13](#impact-on-organizational-culture-and-practices)](#impact-on-organizational-culture-and-practices)
+    * [Challenges and Future Outlook [13](#challenges-and-future-outlook)](#challenges-and-future-outlook)
+    * [Perspectives on Responsible AI and Agentic AI Adoption [13](#perspectives-on-responsible-ai-and-agentic-ai-adoption)](#perspectives-on-responsible-ai-and-agentic-ai-adoption)
 
-[Impact on Organizational Culture and Practices
-[13](#impact-on-organizational-culture-and-practices)](#impact-on-organizational-culture-and-practices)
+4. [Use of Generative AI in This Research Project [14](#use-of-generative-ai-in-this-research-project)](#use-of-generative-ai-in-this-research-project)
+  * [Why Use Generative AI?[15](#why-use-generative-ai)](#why-use-generative-ai)
+  * [Conventional Research Technologies [15](#conventional-research-technologies)](#conventional-research-technologies)
+  * [Generative AI Tools [15](#generative-ai-tools)](#generative-ai-tools)
+  * [Researcher Positionality and Reflexivity in AI-Assisted Research [15](#researcher-positionality-and-reflexivity-in-ai-assisted-research)](#researcher-positionality-and-reflexivity-in-ai-assisted-research)
+    * [Acknowledging the Human Researcher as the Central Agent [16](#acknowledging-the-human-researcher-as-the-central-agent)](#acknowledging-the-human-researcher-as-the-central-agent)
+    * [Positionality and Potential Biases of the Researcher [16](#positionality-and-potential-biases-of-the-researcher)](#positionality-and-potential-biases-of-the-researcher)
+    * [Addressing AI Tool Bias and Data Source Considerations [16](#addressing-ai-tool-bias-and-data-source-considerations)](#addressing-ai-tool-bias-and-data-source-considerations)
+    * [Reaffirming Ethical Commitment and Research Integrity [17](#reaffirming-ethical-commitment-and-research-integrity)](#reaffirming-ethical-commitment-and-research-integrity)
+  * [Addressing AI Bias and Hallucinations in Research [17](#addressing-ai-bias-and-hallucinations-in-research)](#addressing-ai-bias-and-hallucinations-in-research)
 
-[Challenges and Future Outlook
-[13](#challenges-and-future-outlook)](#challenges-and-future-outlook)
+5. [Data Validation and Analysis [18](#data-validation-and-analysis)](#data-validation-and-analysis)
+  * [Instrument Validation Approach [18](#instrument-validation-approach)](#instrument-validation-approach)
+  * [Data Analysis and Interpretation [18](#data-analysis-and-interpretation)](#data-analysis-and-interpretation)
 
-[Perspectives on Responsible AI and Agentic AI Adoption
-[13](#perspectives-on-responsible-ai-and-agentic-ai-adoption)](#perspectives-on-responsible-ai-and-agentic-ai-adoption)
+6. [Future Use of Data [19](#future-use-of-data)](#future-use-of-data)
 
-[Use of Generative AI in This Research Project
-[14](#use-of-generative-ai-in-this-research-project)](#use-of-generative-ai-in-this-research-project)
-
-[Why Use Generative AI?
-[15](#why-use-generative-ai)](#why-use-generative-ai)
-
-[Conventional Research Technologies
-[15](#conventional-research-technologies)](#conventional-research-technologies)
-
-[Generative AI Tools [15](#generative-ai-tools)](#generative-ai-tools)
-
-[Researcher Positionality and Reflexivity in AI-Assisted Research
-[15](#researcher-positionality-and-reflexivity-in-ai-assisted-research)](#researcher-positionality-and-reflexivity-in-ai-assisted-research)
-
-[Acknowledging the Human Researcher as the Central Agent
-[16](#acknowledging-the-human-researcher-as-the-central-agent)](#acknowledging-the-human-researcher-as-the-central-agent)
-
-[Positionality and Potential Biases of the Researcher
-[16](#positionality-and-potential-biases-of-the-researcher)](#positionality-and-potential-biases-of-the-researcher)
-
-[Addressing AI Tool Bias and Data Source Considerations
-[16](#addressing-ai-tool-bias-and-data-source-considerations)](#addressing-ai-tool-bias-and-data-source-considerations)
-
-[Reaffirming Ethical Commitment and Research Integrity
-[17](#reaffirming-ethical-commitment-and-research-integrity)](#reaffirming-ethical-commitment-and-research-integrity)
-
-[Addressing AI Bias and Hallucinations in Research
-[17](#addressing-ai-bias-and-hallucinations-in-research)](#addressing-ai-bias-and-hallucinations-in-research)
-
-[Data Validation and Analysis
-[18](#data-validation-and-analysis)](#data-validation-and-analysis)
-
-[Instrument Validation Approach
-[18](#instrument-validation-approach)](#instrument-validation-approach)
-
-[Data Analysis and Interpretation
-[18](#data-analysis-and-interpretation)](#data-analysis-and-interpretation)
-
-[Future Use of Data [19](#future-use-of-data)](#future-use-of-data)
-
-[Appendix: Glossary [20](#appendix-glossary)](#appendix-glossary)
+7. [Appendix: Glossary [20](#appendix-glossary)](#appendix-glossary)
 
 # Introduction
 
